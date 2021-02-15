@@ -6,6 +6,7 @@ body {
 h1,nav,figcaption{
   text-align:center;
 }
+
 .top-link{
   padding:10px 10px;
   background-color: grey;
@@ -15,19 +16,15 @@ img{
  margin-left: auto;
  margin-right: auto;
 }
-
 .paragraph{
   width:800px;
   text-align: center;
   margin-left: 320px;
 }
-.footer{
-  float:left;
-  padding:20px 100px;
 
-}
-.bottom-container{
-  float: left;
-  text-align: center;
+#details div{
+  float:left;
   background-color: red;
+  width:25%;
+  text-align:center;
 }
