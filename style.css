@@ -7,7 +7,7 @@ h1,nav,figcaption{
   text-align:center;
 }
 
-.top-link{
+nav a{
   padding:10px 10px;
   background-color: grey;
 }
